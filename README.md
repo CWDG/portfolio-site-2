@@ -10,10 +10,10 @@ The finished product should be an HTML document named `index.html`. You are more
 
 The `index.html` file should contain:
 
+- Links to the different sections (which will need anchors). You can make a navigation panel or similar, allowing visitors to easily jump to any part of your website.
 - An image. It can be of you, your dog, a poster for your favorite movie, whatever.
 - A table. You can fill it with your classes and corresponding grades (if you're super proud of them), or any other tabular data.
 - Different sections, each in `section` tags.
-- Links to the different sections (which will need anchors). You can make a navigation panel or similar, allowing visitors to easily jump to any part of your website.
 
 That's it!
 
